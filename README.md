@@ -6,7 +6,7 @@ Submitted by: **NAME**
 
 Time spent: **5 hrs** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://developing-organized-nerine.glitch.me/)
 
 ## Required Functionality
 
