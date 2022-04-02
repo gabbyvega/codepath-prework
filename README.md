@@ -44,7 +44,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[Interview](/Users/gabbyvega/Desktop/codepath-prework/Movie on 4-1-22 at 11.47 PM.mov)
+[Link](https://opensource.com/article/21/1/learn-javascript)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [I did not have the second else in the game logic. I did try to base it off of the flowchart but I completly skipped over the the second question. I used the open source resource to compare my statements and figure it out. As I was playing it would not understand the turn was completed and the second time it would skip to the 8th pattern.]
@@ -59,7 +59,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[/Users/gabbyvega/Desktop/Movie on 4-1-22 at 11.47 PM.mov](/Users/gabbyvega/Desktop/Movie on 4-1-22 at 11.47 PM.mov)
+[Interview](/Users/gabbyvega/Desktop/Movie on 4-1-22 at 11.47 PM.mov)
 
 
 ## License
